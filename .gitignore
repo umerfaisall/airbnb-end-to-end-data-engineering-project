@@ -1,2 +1,2 @@
 .env
-aws_dbt_snowflake_project\profiles.yml
+aws_dbt_snowflake_project/profiles.yml
