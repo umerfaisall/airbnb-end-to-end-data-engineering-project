@@ -3,11 +3,11 @@ aws_dbt_snowflake_project:
     dev:
       account: JNDSONA-GOC64702
       database: AIRBNB
-      password: *************
+      password: Umer_digital05
       role: ACCOUNTADMIN
       schema: dbt_schema
       threads: 1
       type: snowflake
-      user: umerfaisall
+      user: ***
       warehouse: COMPUTE_WH
   target: dev
